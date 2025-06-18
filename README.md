@@ -149,3 +149,11 @@ See the attached screen recording for:
 ## 🔒 Confidential Notice
 
 All code and content are property of **Fenrir Security Private Limited** and must not be shared or published.
+---
+
+## 🎥 Demo Video Link
+
+Watch the demonstration here (recommended to watch at 2x speed):  
+🔗 [Loom Recording – VS Code with Wingman AI](https://www.loom.com/share/c9f8e41214684ea3a1712409ea90410d?sid=64466e9c-55fe-4b63-aede-672df12f35e7)
+
+---
