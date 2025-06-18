@@ -146,10 +146,6 @@ See the attached screen recording for:
 
 ---
 
-## 🔒 Confidential Notice
-
-All code and content are property of **Fenrir Security Private Limited** and must not be shared or published.
----
 
 ## 🎥 Demo Video Link
 
